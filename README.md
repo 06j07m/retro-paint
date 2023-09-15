@@ -38,6 +38,6 @@ School project showcase 1/4.
   - Separate foreground/background colour (click to select to change)
   - Change size of paint tools except pencil
 
-## Attributions
+## Disclaimer
 
 None of the music is mine
