@@ -1,6 +1,6 @@
 # Retro Paint
 
-[About](#about) ◈ [Features](#features) ◈ [Installation](#installation) ◈ [How to use](#how-to-use)
+[About](#about) ◈ [Installation](#installation) ◈ [How to use](#how-to-use) ◈ [Features](#features)
 
 <img src="display/screenshot-main.png" alt="screenshot of paint app" />
 
